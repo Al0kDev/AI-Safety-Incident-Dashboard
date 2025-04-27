@@ -3,7 +3,7 @@
 An interactive dashboard to log, filter, sort, and view AI safety incidents.  
 Built for the **Frontend Intern Take-Home Assignment** at **HumanChain**.
 
-![Dashboard Screenshot](./public/screenshot.png)
+![Dashboard Screenshot](https://github.com/Al0kDev/AI-Safety-Incident-Dashboard/blob/main/dashboard.png)
 
 ---
 
