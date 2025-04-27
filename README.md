@@ -34,5 +34,5 @@ Built for the **Frontend Intern Take-Home Assignment** at **HumanChain**.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/AI-Safety-Incident-Dashboard.git
+   git clone  https://github.com/Al0kDev/AI-Safety-Incident-Dashboard
    cd AI-Safety-Incident-Dashboard
